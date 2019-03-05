@@ -1,6 +1,2 @@
-console.log(100+400+59);
 Git is a distributed version control system.
-Git is free software.
-
-
-console.log('Hello, world.');
+Git is free software distributed under the GPL.
